@@ -1,5 +1,13 @@
 # python-week-2022
 
+## Day 1
+
+- Estrutura básica de organização de projeto;
+- Estrutura de dados e criação de objeto de dados para o banco;
+- Criação do banco de dados.
+
+## Template
+
 Template Para a Python Week 2022 - 25 a 29 de Abril na Linux Tips
 
 ## Instruções
@@ -13,10 +21,10 @@ da Python week e programar junto com o Bruno e o Jeferson.
 
 ## Obtendo seu repositório
 
-01. Faça login no github (cadastre-se gratuitamente caso ainda não tenha uma conta)
-00. Crie um **fork** (cópia) deste repositório clicando em [fork](https://github.com/rochacbruno/python-week-2022/fork)
-00. O seu repositório estará em https:// github.com / SEUNOME / python-week-2022
-00. Copie a URL do seu repositório (você vai precisar depois)
+1.  Faça login no github (cadastre-se gratuitamente caso ainda não tenha uma conta)
+2.  Crie um **fork** (cópia) deste repositório clicando em [fork](https://github.com/rochacbruno/python-week-2022/fork)
+3.  O seu repositório estará em https:// github.com / SEUNOME / python-week-2022
+4.  Copie a URL do seu repositório (você vai precisar depois)
 
 ## Preparando o ambiente
 
