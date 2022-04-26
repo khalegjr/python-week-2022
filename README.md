@@ -6,6 +6,14 @@
 - Estrutura de dados e criação de objeto de dados para o banco;
 - Criação do banco de dados.
 
+## Day 2
+
+- Criação do CLI para inserção e listagem de cervejas;
+- Implementação das funções de interação no banco de dados;
+- Criação de API com FastAPI;
+- Criação de serializadores para evitar acesso da API ao model;
+- Refatoração de função para utilizar serializadores.
+
 ## Template
 
 Template Para a Python Week 2022 - 25 a 29 de Abril na Linux Tips
