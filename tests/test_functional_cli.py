@@ -1,4 +1,3 @@
-from unittest import result
 from typer.testing import CliRunner
 
 from beerlog.cli import main
@@ -13,6 +12,7 @@ def test_add_beer():
     assert result.exit_code == 0
     assert "beer added" in result.stdout
 
+
 def test_list_beer():
     # Arrange
     runner.invoke(
@@ -20,9 +20,7 @@ def test_list_beer():
     )
 
     # Act
-    result = runner.invoke(
-        main, ["list", "--style", "Witbier"]
-    )
+    result = runner.invoke(main, ["list", "--style", "Witbier"])
 
     # Assert
     assert result.exit_code == 0
